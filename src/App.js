@@ -2,7 +2,7 @@ import React from 'react';
 import { gapi } from 'gapi-script';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SignInScreen from './components/Signin';
-import SignupScreen from './components/Signup';
+
 import Display from './components/Display';
 
 class App extends React.Component {
